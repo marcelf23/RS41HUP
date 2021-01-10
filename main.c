@@ -514,7 +514,7 @@ void send_rtty_packet() {
  
   // Produce a RTTY Sentence (Compatible with the existing HORUS RTTY payloads)
   
-  n = sprintf(buf_rtty, "\n\n\n\n$$$$$%s,%d,%02u:%02u:%02u,%s%d.%04"PRId32"d,%s%d.%04" PRId32 ",%"PRId32",%d,%d,%d,%d",
+  n = sprintf(buf_rtty, "\n\n\n\n$$$$$%s,%d,%02u:%02u:%02u,%s%d.%04"PRId32",%s%d.%04" PRId32 ",%"PRId32",%d,%d,%d,%d",
         callsign,
         send_count,
         gpsData.hours, gpsData.minutes, gpsData.seconds,
