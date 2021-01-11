@@ -529,7 +529,7 @@ void send_rtty_packet() {
   
   // Calculate and append CRC16 checksum to end of sentence.
   CRC_rtty = string_CRC16_checksum(buf_rtty + 9);
-  sprintf(buf_rtty + n, "%04X\n", CRC_rtty & 0xffff);
+  sprintf(buf_rtty + n, "*%04X\n", CRC_rtty & 0xffff);
 
   // Point the TX buffer at the temporary RTTY packet buffer.
   tx_buffer = buf_rtty;
