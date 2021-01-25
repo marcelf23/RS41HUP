@@ -12,7 +12,7 @@
 
 
 //************GLOBAL Settings*****************
-#define TRANSMIT_FREQUENCY  434.660f //Mhz middle frequency
+#define TRANSMIT_FREQUENCY  434.200f //Mhz middle frequency
 #define BAUD_RATE  100 // RTTY & MFSK Baud rate.
                        // NOTE: Currently supported MFSK baud rates with horus-gui are 50 and 100 baud,
                        // with the suggested MFSK baud rate being 100 baud.
@@ -77,12 +77,24 @@
 // At 100 baud, each symbol is 10ms
 #define TX_PIP_SYMBOLS  5
 
-
 // Enable uBlox PowerSave Mode
 // Drops current consummption from the GPS somewhat.
 // Positional accuracy may be slightly impacted. Suggest not using this for short flights.
 // Flight-tested on 2020-12.
 //#define UBLOX_POWERSAVE 1
+
+// *********** Morse Ident **********************
+// If uncommented, send a morse code ident every X transmit cycles, to comply
+// with amateur radio regulations, if operating under an amateur radio license.
+// With continuous 4FSK transmissions, 100 transmit cycles is approx 5 minutes.
+//#define MORSE_IDENT 100
+
+// Morse message to send. 
+#define MORSE_MESSAGE "N0CALL"
+
+// Speed of morse transmission
+#define MORSE_WPM 30
+
 
 // *********** Deep Sleep Mode ******************
 // Deep Sleep Mode intended for long duration flights only!

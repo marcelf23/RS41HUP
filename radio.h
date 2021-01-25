@@ -27,6 +27,8 @@ void radio_set_tx_frequency(const float radio_set_tx_frequency);
 
 void radio_disable_tx();
 
+void radio_inhibit_tx();
+
 void radio_soft_reset();
 
 void radio_enable_tx();

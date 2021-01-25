@@ -24,6 +24,7 @@
 #include "util.h"
 #include "mfsk.h"
 #include "horus_l2.h"
+#include "morse.h"
 
 // If enabled, print out binary packets as hex before and after coding.
 //#define MFSKDEBUG 1
@@ -74,6 +75,8 @@ volatile uint8_t disable_armed = 0;
 
 volatile uint32_t deep_sleep_timer = 0;
 volatile uint8_t entered_psm = 0;
+
+volatile uint8_t continuous_mode = CONTINUOUS_MODE;
 
 #ifdef TX_PIP
 volatile unsigned int tx_pip = TX_PIP / (1000/BAUD_RATE);
@@ -253,14 +256,14 @@ void TIM2_IRQHandler(void) {
       // If we are don't have RTTY enabled, and if we have CONTINUOUS_MODE set,
       // transmit continuous MFSK symbols.
       #ifndef RTTY_ENABLED
-        #ifdef CONTINUOUS_MODE
+        if(continuous_mode){
           #ifdef MFSK_4_ENABLED
             mfsk_symbol = (mfsk_symbol+1)%4;
           #elif MFSK_16_ENABLED
             mfsk_symbol = (mfsk_symbol+1)%16;
           #endif
           radio_rw_register(0x73, (uint8_t)mfsk_symbol, 1);
-        #endif
+        }
       #endif
     }
 
@@ -386,6 +389,13 @@ int main(void) {
           // We've finished the 4FSK transmission, grab new data.
           current_mode = STARTUP;
           radio_disable_tx();
+
+
+          #ifdef MORSE_IDENT
+            if(send_count%MORSE_IDENT == 0){
+              send_morse_ident();
+            }
+          #endif
 
           #ifdef DEEP_SLEEP
           // Deep Sleep mode!
@@ -666,6 +676,15 @@ void send_mfsk_packet(){
 }
 
 
+void send_morse_ident(){
+  continuous_mode = 0;
+  radio_rw_register(0x73, 0x00, 1);
+  radio_inhibit_tx();
+  _delay_ms(500);
+  sendMorse(MORSE_MESSAGE);
+  _delay_ms(500);
+  continuous_mode = CONTINUOUS_MODE;
+}
 
 
 #ifdef  DEBUG

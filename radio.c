@@ -35,6 +35,11 @@ void radio_disable_tx() {
   radio_rw_register(0x07, 0x40, 1);
 }
 
+void radio_inhibit_tx() {
+  // Sleep mode, but with PLL idle mode enabled, in an attempt to reduce drift on key-up.
+  radio_rw_register(0x07, 0x43, 1);
+}
+
 void radio_soft_reset() {
   radio_rw_register(0x07, 0x80, 1);
 }
