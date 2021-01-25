@@ -76,7 +76,11 @@ volatile uint8_t disable_armed = 0;
 volatile uint32_t deep_sleep_timer = 0;
 volatile uint8_t entered_psm = 0;
 
-volatile uint8_t continuous_mode = CONTINUOUS_MODE;
+#ifdef CONTINUOUS_MODE
+  volatile uint8_t continuous_mode = 1;
+#else
+  volatile uint8_t continuous_mode = 0;
+#endif
 
 #ifdef TX_PIP
 volatile unsigned int tx_pip = TX_PIP / (1000/BAUD_RATE);
@@ -109,6 +113,7 @@ uint16_t Checksum; // CRC16-CCITT Checksum.
 void collect_telemetry_data();
 void send_rtty_packet();
 void send_mfsk_packet();
+void send_morse_ident();
 uint16_t gps_CRC16_checksum (char *string);
 
 
@@ -683,7 +688,9 @@ void send_morse_ident(){
   _delay_ms(500);
   sendMorse(MORSE_MESSAGE);
   _delay_ms(500);
-  continuous_mode = CONTINUOUS_MODE;
+  #ifdef CONTINUOUS_MODE
+    continuous_mode = 1;
+  #endif
 }
 
 
