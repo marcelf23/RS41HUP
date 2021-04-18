@@ -14,10 +14,10 @@ volatile uint8_t ack_received = 0;
 volatile uint8_t nack_received = 0;
 
 void _sendSerialByte(uint8_t message) {
-  while (USART_GetFlagStatus(USART1, USART_FLAG_TC) == RESET) {
+  while (USART_GetFlagStatus(USART3, USART_FLAG_TC) == RESET) {
   }
-  USART_SendData(USART1, message);
-  while (USART_GetFlagStatus(USART1, USART_FLAG_TC) == RESET) {
+  USART_SendData(USART3, message);
+  while (USART_GetFlagStatus(USART3, USART_FLAG_TC) == RESET) {
   }
 }
 

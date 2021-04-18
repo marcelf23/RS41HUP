@@ -1,0 +1,4 @@
+/mnt/d/Repos/Personal/RS41HUP/CMakeFiles/rebuild_cache.dir
+/mnt/d/Repos/Personal/RS41HUP/CMakeFiles/edit_cache.dir
+/mnt/d/Repos/Personal/RS41HUP/CMakeFiles/program.dir
+/mnt/d/Repos/Personal/RS41HUP/CMakeFiles/RS41HUP.elf.dir

@@ -120,13 +120,13 @@ uint16_t gps_CRC16_checksum (char *string);
 /**
  * GPS data processing
  */
-void USART1_IRQHandler(void) {
-  if (USART_GetITStatus(USART1, USART_IT_RXNE) != RESET) {
-    ublox_handle_incoming_byte((uint8_t) USART_ReceiveData(USART1));
-      }else if (USART_GetITStatus(USART1, USART_IT_ORE) != RESET) {
-    USART_ReceiveData(USART1);
+void USART3_IRQHandler(void) {
+  if (USART_GetITStatus(USART3, USART_IT_RXNE) != RESET) {
+    ublox_handle_incoming_byte((uint8_t) USART_ReceiveData(USART3));
+      }else if (USART_GetITStatus(USART3, USART_IT_ORE) != RESET) {
+    USART_ReceiveData(USART3);
   } else {
-    USART_ReceiveData(USART1);
+    USART_ReceiveData(USART3);
   }
 }
 
@@ -329,7 +329,7 @@ int main(void) {
   GPIO_SetBits(GPIOB, RED);
   // NOTE - Green LED is inverted. (Reset to activate, Set to deactivate)
   GPIO_SetBits(GPIOB, GREEN);
-  USART_SendData(USART3, 0xc);
+  //USART_SendData(USART3, 0xc);
 
   radio_soft_reset();
   // setting RTTY TX frequency

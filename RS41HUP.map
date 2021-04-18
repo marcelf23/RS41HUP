@@ -1,0 +1,2061 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+                              CMakeFiles/RS41HUP.elf.dir/main.c.obj (__aeabi_dmul)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/RS41HUP.elf.dir/main.c.obj (__aeabi_fmul)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              CMakeFiles/RS41HUP.elf.dir/main.c.obj (__aeabi_f2d)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                              CMakeFiles/RS41HUP.elf.dir/main.c.obj (__aeabi_ddiv)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
+                              CMakeFiles/RS41HUP.elf.dir/main.c.obj (__aeabi_d2uiz)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/RS41HUP.elf.dir/radio.c.obj (__aeabi_fsub)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+                              CMakeFiles/RS41HUP.elf.dir/main.c.obj (__aeabi_fdiv)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/RS41HUP.elf.dir/radio.c.obj (__aeabi_fcmpge)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+                              CMakeFiles/RS41HUP.elf.dir/radio.c.obj (__aeabi_f2uiz)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+                              CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj (__assert_func)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o) (fiprintf)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o) (_impure_ptr)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                              CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj (memcpy)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                              CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj (memset)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o) (_vfprintf_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+                              CMakeFiles/RS41HUP.elf.dir/main.c.obj (sprintf)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o) (_fflush_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (__sinit)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o) (_fwalk)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o) (memmove)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o) (_free_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o) (_malloc_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o) (_svfprintf_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o) (__sread)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-writer.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o) (_write_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-closer.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o) (_close_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lseekr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o) (_lseek_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-readr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o) (_read_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o) (errno)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .data          0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .text.SystemInit
+                0x0000000000000000       0xe0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x68 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_info    0x0000000000000000      0x488 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_abbrev  0x0000000000000000      0x1a8 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_loc     0x0000000000000000      0x116 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_aranges
+                0x0000000000000000       0x28 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_ranges  0x0000000000000000       0x38 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_line    0x0000000000000000      0x349 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_str     0x0000000000000000      0x2d8 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .comment       0x0000000000000000       0x4e CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .debug_frame   0x0000000000000000       0x44 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .text._delay_us
+                0x0000000000000000       0x44 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .text.horus_l2_get_num_tx_data_bytes
+                0x0000000000000000       0x3c CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .text.scramble
+                0x0000000000000000       0x54 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .text.get_syndrome
+                0x0000000000000000       0x38 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .text.gen_crc16
+                0x0000000000000000       0x30 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .text.init_usart_debug
+                0x0000000000000000        0x4 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .text.spi_deinit
+                0x0000000000000000       0x2c CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .text.collect_telemetry_data
+                0x0000000000000000       0x78 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .text.send_rtty_packet
+                0x0000000000000000      0x174 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .text.send_morse_ident
+                0x0000000000000000       0x38 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .text.send_16fsk
+                0x0000000000000000       0x2c CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .rodata.str1.4
+                0x0000000000000000       0x1e CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .text.mfsk_test_bits
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .data          0x0000000000000000       0x94 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .text.sendDotOrDash
+                0x0000000000000000       0x48 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .text.sendMorseSequence
+                0x0000000000000000       0x40 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .text.sendMorse
+                0x0000000000000000      0x138 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .rodata.str1.4
+                0x0000000000000000       0xed CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_info    0x0000000000000000      0x61b CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_abbrev  0x0000000000000000      0x216 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_loc     0x0000000000000000      0x304 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_aranges
+                0x0000000000000000       0x30 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_ranges  0x0000000000000000       0xd8 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_line    0x0000000000000000      0x386 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_str     0x0000000000000000      0x250 CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .comment       0x0000000000000000       0x4e CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .debug_frame   0x0000000000000000       0x8c CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .text._spi_sendrecv
+                0x0000000000000000       0x4c CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .text.radio_inhibit_tx
+                0x0000000000000000       0x4c CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .text.NVIC_PriorityGroupConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .text.SysTick_CLKSourceConfig
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_DeInit
+                0x0000000000000000       0x6c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_StructInit
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_ITConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_DiscModeChannelCountConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_DiscModeCmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_ExternalTrigConvCmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_GetConversionValue
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_GetDualModeConversionValue
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_AutoInjectedConvCmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_InjectedChannelConfig
+                0x0000000000000000       0x60 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_InjectedSequencerLengthConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_SetInjectedOffset
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_GetInjectedConversionValue
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_TempSensorVrefintCmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_GetFlagStatus
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_ClearFlag
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_GetITStatus
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text.ADC_ClearITPendingBit
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_StructInit
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_ITConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_SetCurrDataCounter
+                0x0000000000000000        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_GetCurrDataCounter
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_GetFlagStatus
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_ClearFlag
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_GetITStatus
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text.DMA_ClearITPendingBit
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_HalfCycleAccessCmd
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_Unlock
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_UnlockBank1
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_Lock
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_LockBank1
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_ErasePage
+                0x0000000000000000       0xd0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_EraseAllPages
+                0x0000000000000000       0xcc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_EraseAllBank1Pages
+                0x0000000000000000       0xcc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_EraseOptionBytes
+                0x0000000000000000      0x138 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_ProgramWord
+                0x0000000000000000      0x11c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_ProgramHalfWord
+                0x0000000000000000       0xc8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_ProgramOptionByteData
+                0x0000000000000000       0xd8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_EnableWriteProtection
+                0x0000000000000000      0x1b4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_ReadOutProtection
+                0x0000000000000000      0x14c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_UserOptionByteConfig
+                0x0000000000000000       0xe4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_GetUserOptionByte
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_GetReadOutProtectionStatus
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_GetPrefetchBufferStatus
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x20 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_ClearFlag
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_GetStatus
+                0x0000000000000000       0x28 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_GetBank1Status
+                0x0000000000000000       0x28 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x64 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text.FLASH_WaitForLastBank1Operation
+                0x0000000000000000       0x64 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_DeInit
+                0x0000000000000000       0xdc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_StructInit
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadInputData
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadOutputData
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_WriteBit
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_Write
+                0x0000000000000000        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0x2c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_DeInit
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_BackupAccessCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_PVDCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_PVDLevelConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_WakeUpPinCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_EnterSTOPMode
+                0x0000000000000000       0x3c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_EnterSTANDBYMode
+                0x0000000000000000       0x28 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_GetFlagStatus
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text.PWR_ClearFlag
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_info    0x0000000000000000      0x513 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x1d3 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_loc     0x0000000000000000       0xb8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_line    0x0000000000000000      0x38b CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_str     0x0000000000000000      0x337 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .comment       0x0000000000000000       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .debug_frame   0x0000000000000000       0xb8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_HSICmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_PLLCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_PREDIV1Config
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_ITConfig
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_USBCLKConfig
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x28 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_LSICmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_BackupResetCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_MCOConfig
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x34 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0x6c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.I2S_Init
+                0x0000000000000000       0xa8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_StructInit
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.I2S_StructInit
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.I2S_Cmd  0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x20 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x20 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_TransmitCRC
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_GetCRC
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x20 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x2c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_DeInit
+                0x0000000000000000      0x234 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC1Init
+                0x0000000000000000       0x9c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC2Init
+                0x0000000000000000       0x90 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC3Init
+                0x0000000000000000       0x90 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC4Init
+                0x0000000000000000       0x78 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ICInit
+                0x0000000000000000      0x268 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_PWMIConfig
+                0x0000000000000000      0x254 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_BDTRConfig
+                0x0000000000000000       0x30 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_TimeBaseStructInit
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OCStructInit
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ICStructInit
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_BDTRStructInit
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_CtrlPWMOutputs
+                0x0000000000000000       0x20 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GenerateEvent
+                0x0000000000000000        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_DMAConfig
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_DMACmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_InternalClockConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ITRxExternalClockConfig
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_TIxExternalClockConfig
+                0x0000000000000000      0x120 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ETRClockMode1Config
+                0x0000000000000000       0x24 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ETRClockMode2Config
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ETRConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_PrescalerConfig
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_CounterModeConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectInputTrigger
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_EncoderInterfaceConfig
+                0x0000000000000000       0x50 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ForcedOC1Config
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ForcedOC2Config
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ForcedOC3Config
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ForcedOC4Config
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ARRPreloadConfig
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectCOM
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectCCDMA
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_CCPreloadControl
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC1PreloadConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC2PreloadConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC3PreloadConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC4PreloadConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC1FastConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC2FastConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC3FastConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC4FastConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ClearOC1Ref
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ClearOC2Ref
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ClearOC3Ref
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ClearOC4Ref
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC1PolarityConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC1NPolarityConfig
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC2PolarityConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC2NPolarityConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC3PolarityConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC3NPolarityConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_OC4PolarityConfig
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_CCxCmd
+                0x0000000000000000       0x20 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_CCxNCmd
+                0x0000000000000000       0x20 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectOCxM
+                0x0000000000000000       0x60 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_UpdateDisableConfig
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_UpdateRequestConfig
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectHallSensor
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectOnePulseMode
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectOutputTrigger
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectSlaveMode
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SelectMasterSlaveMode
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetCompare1
+                0x0000000000000000        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetCompare2
+                0x0000000000000000        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetCompare3
+                0x0000000000000000        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetCompare4
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetIC1Prescaler
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetIC2Prescaler
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetIC3Prescaler
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetIC4Prescaler
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_SetClockDivision
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GetCapture1
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GetCapture2
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GetCapture3
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GetCapture4
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GetCounter
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GetPrescaler
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_GetFlagStatus
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text.TIM_ClearFlag
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_DeInit
+                0x0000000000000000       0xb0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_StructInit
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_ClockInit
+                0x0000000000000000       0x28 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_ClockStructInit
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_DMACmd
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_SetAddress
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_LINCmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_SendBreak
+                0x0000000000000000        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_OverSampling8Cmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_OneBitMethodCmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_IrDACmd
+                0x0000000000000000       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text.USART_ClearFlag
+                0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .text.link     0x0000000000000000        0x8 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text._sendSerialByte
+                0x0000000000000000       0x2c CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text.send_ublox_packet
+                0x0000000000000000       0x10 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text.ublox_calc_checksum
+                0x0000000000000000       0x50 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text.ubx_powersave
+                0x0000000000000000      0x1ac CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text.ubx_eco_mode
+                0x0000000000000000      0x1ac CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text.ublox_gps_stop
+                0x0000000000000000       0x78 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text.ublox_gps_start
+                0x0000000000000000       0x7c CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text.ublox_wait_for_ack
+                0x0000000000000000       0x3c CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+ .text.string_CRC16_checksum
+                0x0000000000000000       0xcc CMakeFiles/RS41HUP.elf.dir/util.c.obj
+ .text.print_hex
+                0x0000000000000000       0x64 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+ .text          0x0000000000000000      0x254 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000000       0x30 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .text          0x0000000000000000      0x168 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+ .text.__assert
+                0x0000000000000000        0xa /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+ .text._fprintf_r
+                0x0000000000000000       0x1a /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1a /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x14 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x0000000000000000       0x38 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+ .text.sprintf  0x0000000000000000       0x40 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x0000000000000000       0x6c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sprintf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x10 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x18 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x18 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x290 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x3c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x3a /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x4c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000000       0x3c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssputs_r
+                0x0000000000000000       0xb6 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x0000000000000000       0xf6 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .rodata._svfprintf_r.str1.1
+                0x0000000000000000       0x11 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .text._svfprintf_r
+                0x0000000000000000      0x200 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x0000000000000000       0x90 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x10 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000008000000 0x0000000000010000 xr
+ram              0x0000000020000000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++_nano.a
+LOAD CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/cmsis_boot/system_stm32f10x.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/init.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/main.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/morse.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_pwr.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+LOAD CMakeFiles/RS41HUP.elf.dir/util.c.obj
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+                0x0000000020002000                _eram = 0x20002000
+
+.text           0x0000000008000000     0x47ec
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x124 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+                0x0000000008000000                g_pfnVectors
+ *(.text*)
+ .text.Default_Handler
+                0x0000000008000124        0x4 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+                0x0000000008000124                EXTI2_IRQHandler
+                0x0000000008000124                DebugMon_Handler
+                0x0000000008000124                TIM1_CC_IRQHandler
+                0x0000000008000124                HardFault_Handler
+                0x0000000008000124                SysTick_Handler
+                0x0000000008000124                PVD_IRQHandler
+                0x0000000008000124                PendSV_Handler
+                0x0000000008000124                NMI_Handler
+                0x0000000008000124                EXTI3_IRQHandler
+                0x0000000008000124                EXTI0_IRQHandler
+                0x0000000008000124                I2C2_EV_IRQHandler
+                0x0000000008000124                TIM1_UP_TIM16_IRQHandler
+                0x0000000008000124                UsageFault_Handler
+                0x0000000008000124                SPI1_IRQHandler
+                0x0000000008000124                TAMPER_IRQHandler
+                0x0000000008000124                TIM6_DAC_IRQHandler
+                0x0000000008000124                DMA1_Channel4_IRQHandler
+                0x0000000008000124                ADC1_IRQHandler
+                0x0000000008000124                RTC_IRQHandler
+                0x0000000008000124                DMA1_Channel7_IRQHandler
+                0x0000000008000124                TIM4_IRQHandler
+                0x0000000008000124                I2C1_EV_IRQHandler
+                0x0000000008000124                DMA1_Channel6_IRQHandler
+                0x0000000008000124                RCC_IRQHandler
+                0x0000000008000124                DMA1_Channel1_IRQHandler
+                0x0000000008000124                CEC_IRQHandler
+                0x0000000008000124                EXTI15_10_IRQHandler
+                0x0000000008000124                TIM7_IRQHandler
+                0x0000000008000124                EXTI9_5_IRQHandler
+                0x0000000008000124                SPI2_IRQHandler
+                0x0000000008000124                MemManage_Handler
+                0x0000000008000124                SVC_Handler
+                0x0000000008000124                DMA1_Channel5_IRQHandler
+                0x0000000008000124                EXTI4_IRQHandler
+                0x0000000008000124                TIM1_TRG_COM_TIM17_IRQHandler
+                0x0000000008000124                DMA1_Channel3_IRQHandler
+                0x0000000008000124                WWDG_IRQHandler
+                0x0000000008000124                EXTI1_IRQHandler
+                0x0000000008000124                RTCAlarm_IRQHandler
+                0x0000000008000124                USART2_IRQHandler
+                0x0000000008000124                I2C2_ER_IRQHandler
+                0x0000000008000124                DMA1_Channel2_IRQHandler
+                0x0000000008000124                FLASH_IRQHandler
+                0x0000000008000124                BusFault_Handler
+                0x0000000008000124                USART1_IRQHandler
+                0x0000000008000124                I2C1_ER_IRQHandler
+                0x0000000008000124                TIM1_BRK_TIM15_IRQHandler
+ .text.Default_Reset_Handler
+                0x0000000008000128       0x48 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+                0x0000000008000128                Reset_Handler
+                0x0000000008000128                Default_Reset_Handler
+ .text.delay_init
+                0x0000000008000170       0x5c CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+                0x0000000008000170                delay_init
+ .text._delay_ms
+                0x00000000080001cc       0x50 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+                0x00000000080001cc                _delay_ms
+ .text.TIM3_IRQHandler
+                0x000000000800021c       0x28 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+                0x000000000800021c                TIM3_IRQHandler
+ .text.send_rtty
+                0x0000000008000244       0x60 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+                0x0000000008000244                send_rtty
+ .text.interleave
+                0x00000000080002a4       0xe8 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+                0x00000000080002a4                interleave
+ .text.horus_l2_encode_tx_packet
+                0x000000000800038c      0x3d0 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+                0x000000000800038c                horus_l2_encode_tx_packet
+ .text.init_usart_gps
+                0x000000000800075c       0x94 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x000000000800075c                init_usart_gps
+ .text.NVIC_Conf
+                0x00000000080007f0        0xc CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x00000000080007f0                NVIC_Conf
+ .text.RCC_Conf
+                0x00000000080007fc       0x4c CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x00000000080007fc                RCC_Conf
+ .text.reset_gps
+                0x0000000008000848       0x58 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x0000000008000848                reset_gps
+ .text.init_port
+                0x00000000080008a0      0x24c CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x00000000080008a0                init_port
+ .text.spi_init
+                0x0000000008000aec       0x74 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x0000000008000aec                spi_init
+ .text.init_timer
+                0x0000000008000b60       0x70 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x0000000008000b60                init_timer
+ .text.USART3_IRQHandler
+                0x0000000008000bd0       0x38 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                0x0000000008000bd0                USART3_IRQHandler
+ .text.TIM2_IRQHandler
+                0x0000000008000c08      0x1e4 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                0x0000000008000c08                TIM2_IRQHandler
+ *fill*         0x0000000008000dec        0x4 
+ .text.send_mfsk_packet
+                0x0000000008000df0      0x13c CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                0x0000000008000df0                send_mfsk_packet
+ .text.startup.main
+                0x0000000008000f2c      0x160 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                0x0000000008000f2c                main
+ .text.send_4fsk
+                0x000000000800108c       0x2c CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+                0x000000000800108c                send_4fsk
+ .text.send_2fsk
+                0x00000000080010b8       0x34 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+                0x00000000080010b8                send_2fsk
+ .text.radio_rw_register
+                0x00000000080010ec       0x5c CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+                0x00000000080010ec                radio_rw_register
+ .text.radio_set_tx_frequency
+                0x0000000008001148      0x170 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+                0x0000000008001148                radio_set_tx_frequency
+ .text.radio_disable_tx
+                0x00000000080012b8       0x4c CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+                0x00000000080012b8                radio_disable_tx
+ .text.radio_soft_reset
+                0x0000000008001304       0x4c CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+                0x0000000008001304                radio_soft_reset
+ .text.radio_enable_tx
+                0x0000000008001350       0x4c CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+                0x0000000008001350                radio_enable_tx
+ .text.radio_read_temperature
+                0x000000000800139c       0x90 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+                0x000000000800139c                radio_read_temperature
+ .text.NVIC_Init
+                0x000000000800142c       0x6c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+                0x000000000800142c                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x0000000008001498       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+                0x0000000008001498                NVIC_SetVectorTable
+ .text.NVIC_SystemLPConfig
+                0x00000000080014ac       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+                0x00000000080014ac                NVIC_SystemLPConfig
+ .text.ADC_Init
+                0x00000000080014c8       0x4c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x00000000080014c8                ADC_Init
+ .text.ADC_Cmd  0x0000000008001514       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x0000000008001514                ADC_Cmd
+ .text.ADC_DMACmd
+                0x0000000008001528       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x0000000008001528                ADC_DMACmd
+ .text.ADC_ResetCalibration
+                0x000000000800153c        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x000000000800153c                ADC_ResetCalibration
+ .text.ADC_GetResetCalibrationStatus
+                0x0000000008001548        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x0000000008001548                ADC_GetResetCalibrationStatus
+ .text.ADC_StartCalibration
+                0x0000000008001550        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x0000000008001550                ADC_StartCalibration
+ .text.ADC_GetCalibrationStatus
+                0x000000000800155c        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x000000000800155c                ADC_GetCalibrationStatus
+ .text.ADC_SoftwareStartConvCmd
+                0x0000000008001564       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x0000000008001564                ADC_SoftwareStartConvCmd
+ .text.ADC_RegularChannelConfig
+                0x0000000008001578       0x9c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                0x0000000008001578                ADC_RegularChannelConfig
+ .text.DMA_DeInit
+                0x0000000008001614      0x128 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+                0x0000000008001614                DMA_DeInit
+ .text.DMA_Init
+                0x000000000800173c       0x40 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+                0x000000000800173c                DMA_Init
+ .text.DMA_Cmd  0x000000000800177c       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+                0x000000000800177c                DMA_Cmd
+ .text.FLASH_SetLatency
+                0x0000000008001794       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+                0x0000000008001794                FLASH_SetLatency
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000080017a8       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+                0x00000000080017a8                FLASH_PrefetchBufferCmd
+ .text.GPIO_Init
+                0x00000000080017c0      0x328 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+                0x00000000080017c0                GPIO_Init
+ .text.GPIO_SetBits
+                0x0000000008001ae8        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+                0x0000000008001ae8                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x0000000008001aec        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+                0x0000000008001aec                GPIO_ResetBits
+ .text.GPIO_PinRemapConfig
+                0x0000000008001af0       0x70 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+                0x0000000008001af0                GPIO_PinRemapConfig
+ .text.RCC_DeInit
+                0x0000000008001b60       0x48 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001b60                RCC_DeInit
+ .text.RCC_HSEConfig
+                0x0000000008001ba8       0x38 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001ba8                RCC_HSEConfig
+ .text.RCC_WaitForHSEStartUp
+                0x0000000008001be0       0x30 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001be0                RCC_WaitForHSEStartUp
+ .text.RCC_SYSCLKConfig
+                0x0000000008001c10       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001c10                RCC_SYSCLKConfig
+ .text.RCC_GetSYSCLKSource
+                0x0000000008001c24       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001c24                RCC_GetSYSCLKSource
+ .text.RCC_HCLKConfig
+                0x0000000008001c34       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001c34                RCC_HCLKConfig
+ .text.RCC_PCLK1Config
+                0x0000000008001c48       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001c48                RCC_PCLK1Config
+ .text.RCC_PCLK2Config
+                0x0000000008001c5c       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001c5c                RCC_PCLK2Config
+ .text.RCC_ADCCLKConfig
+                0x0000000008001c70       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001c70                RCC_ADCCLKConfig
+ .text.RCC_GetClocksFreq
+                0x0000000008001c84       0xa4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001c84                RCC_GetClocksFreq
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000008001d28       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001d28                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000008001d40       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001d40                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000008001d58       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001d58                RCC_APB1PeriphClockCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000008001d70       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                0x0000000008001d70                RCC_APB1PeriphResetCmd
+ .text.SPI_Init
+                0x0000000008001d88       0x54 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+                0x0000000008001d88                SPI_Init
+ .text.SPI_Cmd  0x0000000008001ddc       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+                0x0000000008001ddc                SPI_Cmd
+ .text.SPI_I2S_SendData
+                0x0000000008001df8        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+                0x0000000008001df8                SPI_I2S_SendData
+ .text.SPI_I2S_ReceiveData
+                0x0000000008001dfc        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+                0x0000000008001dfc                SPI_I2S_ReceiveData
+ .text.SPI_SSOutputCmd
+                0x0000000008001e04       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+                0x0000000008001e04                SPI_SSOutputCmd
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000008001e20        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+                0x0000000008001e20                SPI_I2S_GetFlagStatus
+ .text.TIM_TimeBaseInit
+                0x0000000008001e2c       0xac CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                0x0000000008001e2c                TIM_TimeBaseInit
+ .text.TIM_Cmd  0x0000000008001ed8       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                0x0000000008001ed8                TIM_Cmd
+ .text.TIM_ITConfig
+                0x0000000008001ef4       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                0x0000000008001ef4                TIM_ITConfig
+ .text.TIM_SetCounter
+                0x0000000008001f08        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                0x0000000008001f08                TIM_SetCounter
+ .text.TIM_SetAutoreload
+                0x0000000008001f0c        0x4 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                0x0000000008001f0c                TIM_SetAutoreload
+ .text.TIM_GetITStatus
+                0x0000000008001f10       0x18 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                0x0000000008001f10                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x0000000008001f28        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                0x0000000008001f28                TIM_ClearITPendingBit
+ .text.USART_Init
+                0x0000000008001f30       0xb8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008001f30                USART_Init
+ .text.USART_Cmd
+                0x0000000008001fe8       0x1c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008001fe8                USART_Cmd
+ .text.USART_ITConfig
+                0x0000000008002004       0x34 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008002004                USART_ITConfig
+ .text.USART_SendData
+                0x0000000008002038        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008002038                USART_SendData
+ .text.USART_ReceiveData
+                0x0000000008002040        0x8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008002040                USART_ReceiveData
+ .text.USART_GetFlagStatus
+                0x0000000008002048        0xc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008002048                USART_GetFlagStatus
+ .text.USART_GetITStatus
+                0x0000000008002054       0x44 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008002054                USART_GetITStatus
+ .text.USART_ClearITPendingBit
+                0x0000000008002098       0x10 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                0x0000000008002098                USART_ClearITPendingBit
+ .text._sbrk    0x00000000080020a8       0x1c CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020a8                _sbrk
+ .text._close   0x00000000080020c4        0x8 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020c4                _close
+ .text._fstat   0x00000000080020cc        0xc CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020cc                _fstat
+ .text._isatty  0x00000000080020d8        0x4 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020d8                _isatty
+ .text._lseek   0x00000000080020dc        0x4 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020dc                _lseek
+ .text._read    0x00000000080020e0        0x4 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020e0                _read
+ .text._write   0x00000000080020e4        0x4 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020e4                _write
+ .text.unlikely.abort
+                0x00000000080020e8        0x2 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                0x00000000080020e8                abort
+ *fill*         0x00000000080020ea        0x2 
+ .text.send_ublox
+                0x00000000080020ec      0x1a8 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                0x00000000080020ec                send_ublox
+ .text.ublox_get_last_data
+                0x0000000008002294       0x38 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                0x0000000008002294                ublox_get_last_data
+ .text.ubx_config_gps
+                0x00000000080022cc      0x244 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                0x00000000080022cc                ubx_config_gps
+ .text.ublox_init
+                0x0000000008002510      0x1d8 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                0x0000000008002510                ublox_init
+ .text.ublox_handle_packet
+                0x00000000080026e8      0x134 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                0x00000000080026e8                ublox_handle_packet
+ .text.ublox_handle_incoming_byte
+                0x000000000800281c       0x88 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                0x000000000800281c                ublox_handle_incoming_byte
+ .text.array_CRC16_checksum
+                0x00000000080028a4       0xc8 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+                0x00000000080028a4                array_CRC16_checksum
+ .text          0x000000000800296c      0x378 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                0x000000000800296c                __aeabi_drsub
+                0x0000000008002974                __aeabi_dsub
+                0x0000000008002974                __subdf3
+                0x0000000008002978                __adddf3
+                0x0000000008002978                __aeabi_dadd
+                0x0000000008002bf0                __aeabi_ui2d
+                0x0000000008002bf0                __floatunsidf
+                0x0000000008002c10                __floatsidf
+                0x0000000008002c10                __aeabi_i2d
+                0x0000000008002c34                __extendsfdf2
+                0x0000000008002c34                __aeabi_f2d
+                0x0000000008002c78                __aeabi_ul2d
+                0x0000000008002c78                __floatundidf
+                0x0000000008002c88                __floatdidf
+                0x0000000008002c88                __aeabi_l2d
+ .text          0x0000000008002ce4      0x424 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                0x0000000008002ce4                __aeabi_dmul
+                0x0000000008002ce4                __muldf3
+                0x0000000008002f38                __aeabi_ddiv
+                0x0000000008002f38                __divdf3
+ .text          0x0000000008003108       0x40 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
+                0x0000000008003108                __fixunsdfsi
+                0x0000000008003108                __aeabi_d2uiz
+ .text          0x0000000008003148      0x21c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+                0x0000000008003148                __aeabi_frsub
+                0x0000000008003150                __subsf3
+                0x0000000008003150                __aeabi_fsub
+                0x0000000008003154                __aeabi_fadd
+                0x0000000008003154                __addsf3
+                0x00000000080032b4                __aeabi_ui2f
+                0x00000000080032b4                __floatunsisf
+                0x00000000080032bc                __aeabi_i2f
+                0x00000000080032bc                __floatsisf
+                0x00000000080032d8                __floatundisf
+                0x00000000080032d8                __aeabi_ul2f
+                0x00000000080032e8                __floatdisf
+                0x00000000080032e8                __aeabi_l2f
+ .text          0x0000000008003364      0x2a0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+                0x0000000008003364                __mulsf3
+                0x0000000008003364                __aeabi_fmul
+                0x00000000080034cc                __divsf3
+                0x00000000080034cc                __aeabi_fdiv
+ .text          0x0000000008003604       0xec /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpsf2.o)
+                0x0000000008003604                __gtsf2
+                0x0000000008003604                __gesf2
+                0x000000000800360c                __lesf2
+                0x000000000800360c                __ltsf2
+                0x0000000008003614                __nesf2
+                0x0000000008003614                __eqsf2
+                0x0000000008003614                __cmpsf2
+                0x0000000008003674                __aeabi_cfrcmple
+                0x000000000800367c                __aeabi_cfcmple
+                0x000000000800367c                __aeabi_cfcmpeq
+                0x000000000800368c                __aeabi_fcmpeq
+                0x00000000080036a0                __aeabi_fcmplt
+                0x00000000080036b4                __aeabi_fcmple
+                0x00000000080036c8                __aeabi_fcmpge
+                0x00000000080036dc                __aeabi_fcmpgt
+ .text          0x00000000080036f0       0x40 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+                0x00000000080036f0                __aeabi_f2uiz
+                0x00000000080036f0                __fixunssfsi
+ .text.__assert_func
+                0x0000000008003730       0x3c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+                0x0000000008003730                __assert_func
+ .text.fprintf  0x000000000800376c       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+                0x000000000800376c                fprintf
+                0x000000000800376c                fiprintf
+ .text.memcpy   0x0000000008003790       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                0x0000000008003790                memcpy
+ .text.memset   0x00000000080037ac       0x10 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x00000000080037ac                memset
+ .text.__sfputc_r
+                0x00000000080037bc       0x2a /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00000000080037e6       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000080037e6                __sfputs_r
+ *fill*         0x000000000800380a        0x2 
+ .text._vfprintf_r
+                0x000000000800380c      0x260 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x000000000800380c                _vfiprintf_r
+                0x000000000800380c                _vfprintf_r
+ .text._printf_common
+                0x0000000008003a6c       0xde /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008003a6c                _printf_common
+ *fill*         0x0000000008003b4a        0x2 
+ .text._printf_i
+                0x0000000008003b4c      0x24c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008003b4c                _printf_i
+ .text.__swbuf_r
+                0x0000000008003d98       0xa4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+                0x0000000008003d98                __swbuf_r
+ .text.__swsetup_r
+                0x0000000008003e3c       0xdc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+                0x0000000008003e3c                __swsetup_r
+ .text.__sflush_r
+                0x0000000008003f18      0x104 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+                0x0000000008003f18                __sflush_r
+ .text._fflush_r
+                0x000000000800401c       0x78 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+                0x000000000800401c                _fflush_r
+ .text.std      0x0000000008004094       0x48 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000080040dc        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x00000000080040dc                _cleanup_r
+ .text.__sfmoreglue
+                0x00000000080040e8       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x00000000080040e8                __sfmoreglue
+ .text.__sfp_lock_acquire
+                0x0000000008004114        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x0000000008004114                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x0000000008004120        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x0000000008004120                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x000000000800412c        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x000000000800412c                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x0000000008004138        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x0000000008004138                __sinit_lock_release
+ .text.__sinit  0x0000000008004144       0x70 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x0000000008004144                __sinit
+ .text.__sfp    0x00000000080041b4       0x8c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x00000000080041b4                __sfp
+ .text._fwalk_reent
+                0x0000000008004240       0x3e /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+                0x0000000008004240                _fwalk_reent
+ .text.__retarget_lock_init_recursive
+                0x000000000800427e        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+                0x000000000800427e                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008004280        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+                0x0000000008004280                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008004282        0x2 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+                0x0000000008004282                __retarget_lock_release_recursive
+ .text.__swhatbuf_r
+                0x0000000008004284       0x4a /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+                0x0000000008004284                __swhatbuf_r
+ *fill*         0x00000000080042ce        0x2 
+ .text.__smakebuf_r
+                0x00000000080042d0       0x80 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+                0x00000000080042d0                __smakebuf_r
+ .text.memchr   0x0000000008004350       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+                0x0000000008004350                memchr
+ .text._free_r  0x000000000800436c       0x90 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+                0x000000000800436c                _free_r
+ .text._malloc_r
+                0x00000000080043fc       0xb4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000000080043fc                _malloc_r
+ .text._sbrk_r  0x00000000080044b0       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+                0x00000000080044b0                _sbrk_r
+ .text.__sread  0x00000000080044d0       0x22 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+                0x00000000080044d0                __sread
+ .text.__swrite
+                0x00000000080044f2       0x38 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+                0x00000000080044f2                __swrite
+ .text.__sseek  0x000000000800452a       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+                0x000000000800452a                __sseek
+ .text.__sclose
+                0x000000000800454e        0x8 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+                0x000000000800454e                __sclose
+ *fill*         0x0000000008004556        0x2 
+ .text._write_r
+                0x0000000008004558       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-writer.o)
+                0x0000000008004558                _write_r
+ .text._close_r
+                0x000000000800457c       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-closer.o)
+                0x000000000800457c                _close_r
+ .text._fstat_r
+                0x000000000800459c       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+                0x000000000800459c                _fstat_r
+ .text._isatty_r
+                0x00000000080045c0       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+                0x00000000080045c0                _isatty_r
+ .text._lseek_r
+                0x00000000080045e0       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lseekr.o)
+                0x00000000080045e0                _lseek_r
+ .text.__malloc_lock
+                0x0000000008004604        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+                0x0000000008004604                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000008004610        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+                0x0000000008004610                __malloc_unlock
+ .text._read_r  0x000000000800461c       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-readr.o)
+                0x000000000800461c                _read_r
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.4
+                0x0000000008004640       0x59 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ *fill*         0x0000000008004699        0x3 
+ .rodata        0x000000000800469c       0x1a CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ *fill*         0x00000000080046b6        0x2 
+ .rodata.str1.4
+                0x00000000080046b8       0x5f CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                                         0x63 (size before relaxing)
+ .rodata.__assert_func.str1.1
+                0x0000000008004717       0x3c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+                                         0x3d (size before relaxing)
+ *fill*         0x0000000008004753        0x1 
+ .rodata._global_impure_ptr
+                0x0000000008004754        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                0x0000000008004754                _global_impure_ptr
+ .rodata._vfprintf_r.str1.1
+                0x0000000008004758       0x11 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x0000000008004769       0x22 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x000000000800478b        0x1 
+ .rodata.__sf_fake_stderr
+                0x000000000800478c       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x000000000800478c                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x00000000080047ac       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x00000000080047ac                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000080047cc       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+                0x00000000080047cc                __sf_fake_stdout
+ *(.eh_fram e*)
+
+.glue_7         0x00000000080047ec        0x0
+ .glue_7        0x00000000080047ec        0x0 linker stubs
+
+.glue_7t        0x00000000080047ec        0x0
+ .glue_7t       0x00000000080047ec        0x0 linker stubs
+
+.vfp11_veneer   0x00000000080047ec        0x0
+ .vfp11_veneer  0x00000000080047ec        0x0 linker stubs
+
+.v4_bx          0x00000000080047ec        0x0
+ .v4_bx         0x00000000080047ec        0x0 linker stubs
+
+.iplt           0x00000000080047ec        0x0
+ .iplt          0x00000000080047ec        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+
+.rel.dyn        0x00000000080047ec        0x0
+ .rel.iplt      0x00000000080047ec        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000000080047ec                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000000080047ec                __exidx_end = .
+                0x00000000080047ec                __etext = .
+                0x00000000080047ec                _sidata = __etext
+
+.data           0x0000000020000000      0x12c load address 0x00000000080047ec
+                0x0000000020000000                __data_start__ = .
+                0x0000000020000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x0000000020000000       0x8a CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+                0x0000000020000000                primes
+ *fill*         0x000000002000008a        0x2 
+ .data          0x000000002000008c       0x26 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                0x000000002000008c                led_enabled
+                0x0000000020000090                continuous_mode
+                0x0000000020000094                cun
+                0x0000000020000098                callsign
+                0x00000000200000a8                CRC_rtty
+                0x00000000200000ac                adc_bottom
+                0x00000000200000b0                status
+ *fill*         0x00000000200000b2        0x2 
+ .data          0x00000000200000b4       0x14 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .data._impure_ptr
+                0x00000000200000c8        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                0x00000000200000c8                _impure_ptr
+ .data.impure_data
+                0x00000000200000cc       0x60 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                0x000000002000012c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x000000002000012c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x000000002000012c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x000000002000012c                . = ALIGN (0x4)
+                0x000000002000012c                __data_end__ = .
+                0x000000002000012c                _edata = __data_end__
+
+.igot.plt       0x000000002000012c        0x0 load address 0x0000000008004918
+ .igot.plt      0x000000002000012c        0x0 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+
+.bss            0x0000000020000130      0x304 load address 0x0000000008004920
+                0x0000000020000130                . = ALIGN (0x4)
+                0x0000000020000130                __bss_start__ = .
+                0x0000000020000130                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x0000000020000130        0x1 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+                0x0000000020000130                done
+ .bss           0x0000000020000131        0x2 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+                0x0000000020000132                start_bits
+ *fill*         0x0000000020000133        0x5 
+ .bss           0x0000000020000138       0x6c CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                0x0000000020000138                USART_InitStructure
+                0x0000000020000148                GPIO_Conf
+                0x000000002000014c                SPI_InitStructure
+                0x0000000020000160                DMA_InitStructure
+                0x0000000020000190                ADC_InitStructure
+ *fill*         0x00000000200001a4        0x4 
+ .bss           0x00000000200001a8      0x1ea CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                0x00000000200001a8                tx_on
+                0x00000000200001ac                current_mode
+                0x00000000200001b0                tx_buffer
+                0x00000000200001b4                send_rtty_status
+                0x00000000200001b5                disable_armed
+                0x00000000200001b8                tx_on_delay
+                0x00000000200001bc                tx_enable
+                0x00000000200001be                current_mfsk_byte
+                0x00000000200001c4                packet_length
+                0x00000000200001c6                pun
+                0x00000000200001c7                flaga
+                0x00000000200001c8                send_count
+                0x00000000200001cc                si4032_temperature
+                0x00000000200001d0                ADCVal
+                0x00000000200001d4                voltage
+                0x00000000200001d8                gpsData
+                0x00000000200001f8                buf_rtty
+                0x00000000200002c0                buf_mfsk
+                0x0000000020000388                entered_psm
+                0x000000002000038c                deep_sleep_timer
+                0x0000000020000390                button_pressed
+ .bss           0x0000000020000392        0x3 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ *fill*         0x0000000020000395        0x3 
+ .bss           0x0000000020000398        0x4 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .bss           0x000000002000039c       0x89 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                0x000000002000039c                currentGPSData
+                0x00000000200003bc                ack_received
+                0x00000000200003bd                nack_received
+                0x0000000020000424                active
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000020000425        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+                0x0000000020000425                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000020000426        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+                0x0000000020000426                __lock___sfp_recursive_mutex
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000020000427        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+                0x0000000020000427                __lock___sinit_recursive_mutex
+ .bss.__malloc_free_list
+                0x0000000020000428        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000428                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x000000002000042c        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                0x000000002000042c                __malloc_sbrk_start
+ .bss.errno     0x0000000020000430        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+                0x0000000020000430                errno
+ *(COMMON)
+                0x0000000020000434                . = ALIGN (0x4)
+                0x0000000020000434                __bss_end__ = .
+                0x0000000020000434                _ebss = __bss_end__
+
+.heap           0x0000000020000434        0x0
+                0x0000000020000434                __end__ = .
+                0x0000000020000434                _end = __end__
+                0x0000000020000434                end = __end__
+ *(.heap*)
+                0x0000000020000434                __HeapLimit = .
+
+.co_stack       0x0000000020000434      0x404 load address 0x0000000008004c24
+                0x0000000020000438                . = ALIGN (0x8)
+ *fill*         0x0000000020000434        0x4 
+ *(.co_stack .co_stack.*)
+ .co_stack      0x0000000020000438      0x400 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+                0x0000000020000438                pulStack
+                0x0000000020002000                __StackTop = (ORIGIN (ram) + LENGTH (ram))
+                0x0000000020001bfc                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                [!provide]                        PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+OUTPUT(RS41HUP.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x108f9
+ .debug_info    0x0000000000000000      0x11e CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .debug_info    0x000000000000011e      0x891 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .debug_info    0x00000000000009af      0x12b CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .debug_info    0x0000000000000ada      0x96b CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .debug_info    0x0000000000001445     0x19f5 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .debug_info    0x0000000000002e3a     0x1376 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .debug_info    0x00000000000041b0      0x293 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .debug_info    0x0000000000004443      0xf67 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .debug_info    0x00000000000053aa      0x57c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .debug_info    0x0000000000005926      0xd5c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .debug_info    0x0000000000006682      0x4ac CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .debug_info    0x0000000000006b2e     0x1c29 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .debug_info    0x0000000000008757      0x924 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .debug_info    0x000000000000907b      0xa88 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .debug_info    0x0000000000009b03      0xaa7 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .debug_info    0x000000000000a5aa     0x29a5 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .debug_info    0x000000000000cf4f      0xc0e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .debug_info    0x000000000000db5d      0x4c0 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .debug_info    0x000000000000e01d     0x26e0 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .debug_info    0x00000000000106fd      0x1fc CMakeFiles/RS41HUP.elf.dir/util.c.obj
+
+.debug_abbrev   0x0000000000000000     0x2ad0
+ .debug_abbrev  0x0000000000000000       0xee CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .debug_abbrev  0x00000000000000ee      0x21f CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .debug_abbrev  0x000000000000030d       0xdb CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .debug_abbrev  0x00000000000003e8      0x31c CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .debug_abbrev  0x0000000000000704      0x30b CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .debug_abbrev  0x0000000000000a0f      0x338 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .debug_abbrev  0x0000000000000d47       0xe0 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .debug_abbrev  0x0000000000000e27      0x262 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .debug_abbrev  0x0000000000001089      0x187 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .debug_abbrev  0x0000000000001210      0x20d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .debug_abbrev  0x000000000000141d      0x223 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .debug_abbrev  0x0000000000001640      0x2a3 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .debug_abbrev  0x00000000000018e3      0x233 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .debug_abbrev  0x0000000000001b16      0x27f CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .debug_abbrev  0x0000000000001d95      0x210 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .debug_abbrev  0x0000000000001fa5      0x2fe CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .debug_abbrev  0x00000000000022a3      0x1fa CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .debug_abbrev  0x000000000000249d      0x191 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .debug_abbrev  0x000000000000262e      0x391 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .debug_abbrev  0x00000000000029bf      0x111 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+
+.debug_aranges  0x0000000000000000      0xc20
+ .debug_aranges
+                0x0000000000000000       0x28 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .debug_aranges
+                0x0000000000000028       0x38 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .debug_aranges
+                0x0000000000000060       0x20 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .debug_aranges
+                0x0000000000000080       0x48 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .debug_aranges
+                0x00000000000000c8       0x60 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .debug_aranges
+                0x0000000000000128       0x50 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .debug_aranges
+                0x0000000000000178       0x38 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .debug_aranges
+                0x00000000000001b0       0x58 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .debug_aranges
+                0x0000000000000208       0x40 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .debug_aranges
+                0x0000000000000248      0x138 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .debug_aranges
+                0x0000000000000380       0x60 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .debug_aranges
+                0x00000000000003e0       0xd8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .debug_aranges
+                0x00000000000004b8       0xa8 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .debug_aranges
+                0x0000000000000560      0x120 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .debug_aranges
+                0x0000000000000680       0xd0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .debug_aranges
+                0x0000000000000750      0x2c0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .debug_aranges
+                0x0000000000000a10      0x100 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .debug_aranges
+                0x0000000000000b10       0x58 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .debug_aranges
+                0x0000000000000b68       0x88 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .debug_aranges
+                0x0000000000000bf0       0x30 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+
+.debug_ranges   0x0000000000000000     0x22a8
+ .debug_ranges  0x0000000000000000       0x18 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .debug_ranges  0x0000000000000018       0x48 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .debug_ranges  0x0000000000000060       0x10 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .debug_ranges  0x0000000000000070       0xd8 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .debug_ranges  0x0000000000000148       0x70 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .debug_ranges  0x00000000000001b8       0x98 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .debug_ranges  0x0000000000000250       0x28 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .debug_ranges  0x0000000000000278      0x1f0 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .debug_ranges  0x0000000000000468       0x30 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .debug_ranges  0x0000000000000498      0x128 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .debug_ranges  0x00000000000005c0       0x50 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .debug_ranges  0x0000000000000610     0x1160 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .debug_ranges  0x0000000000001770       0x98 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .debug_ranges  0x0000000000001808      0x130 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .debug_ranges  0x0000000000001938       0xc0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .debug_ranges  0x00000000000019f8      0x450 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .debug_ranges  0x0000000000001e48       0xf0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .debug_ranges  0x0000000000001f38       0x48 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .debug_ranges  0x0000000000001f80      0x2f0 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .debug_ranges  0x0000000000002270       0x38 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+
+.debug_line     0x0000000000000000     0xc32a
+ .debug_line    0x0000000000000000       0xd5 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .debug_line    0x00000000000000d5      0x2b1 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .debug_line    0x0000000000000386      0x192 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .debug_line    0x0000000000000518      0xbeb CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .debug_line    0x0000000000001103      0x6e6 CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .debug_line    0x00000000000017e9      0x9d9 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .debug_line    0x00000000000021c2      0x325 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .debug_line    0x00000000000024e7      0x637 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .debug_line    0x0000000000002b1e      0x2f6 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .debug_line    0x0000000000002e14      0xa6c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .debug_line    0x0000000000003880      0x495 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .debug_line    0x0000000000003d15     0x2124 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .debug_line    0x0000000000005e39      0xf43 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .debug_line    0x0000000000006d7c      0x98f CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .debug_line    0x000000000000770b      0x735 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .debug_line    0x0000000000007e40     0x1f47 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .debug_line    0x0000000000009d87      0x8ae CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .debug_line    0x000000000000a635      0x225 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .debug_line    0x000000000000a85a     0x15ac CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .debug_line    0x000000000000be06      0x524 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+
+.debug_str      0x0000000000000000     0x3e11
+ .debug_str     0x0000000000000000      0x163 CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+                                        0x189 (size before relaxing)
+ .debug_str     0x0000000000000163      0x63c CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+                                        0x736 (size before relaxing)
+ .debug_str     0x000000000000079f       0x7b CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+                                        0x1be (size before relaxing)
+ .debug_str     0x000000000000081a      0x1ed CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+                                        0x398 (size before relaxing)
+ .debug_str     0x0000000000000a07      0x81a CMakeFiles/RS41HUP.elf.dir/init.c.obj
+                                        0xed2 (size before relaxing)
+ .debug_str     0x0000000000001221      0x4a8 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+                                        0x8c0 (size before relaxing)
+ .debug_str     0x00000000000016c9       0x56 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+                                        0x1bc (size before relaxing)
+ .debug_str     0x000000000000171f       0xe7 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+                                        0x3fa (size before relaxing)
+ .debug_str     0x0000000000001806      0x145 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+                                        0x3bc (size before relaxing)
+ .debug_str     0x000000000000194b      0x3de CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+                                        0x710 (size before relaxing)
+ .debug_str     0x0000000000001d29      0x11c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+                                        0x3b5 (size before relaxing)
+ .debug_str     0x0000000000001e45      0x3fb CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+                                        0x5e6 (size before relaxing)
+ .debug_str     0x0000000000002240      0x21e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+                                        0x52e (size before relaxing)
+ .debug_str     0x000000000000245e      0x36f CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+                                        0x66b (size before relaxing)
+ .debug_str     0x00000000000027cd      0x246 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+                                        0x63b (size before relaxing)
+ .debug_str     0x0000000000002a13      0x9eb CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+                                        0xe09 (size before relaxing)
+ .debug_str     0x00000000000033fe      0x33b CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+                                        0x6ce (size before relaxing)
+ .debug_str     0x0000000000003739      0x17e CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+                                        0x309 (size before relaxing)
+ .debug_str     0x00000000000038b7      0x51e CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+                                        0x87f (size before relaxing)
+ .debug_str     0x0000000000003dd5       0x3c CMakeFiles/RS41HUP.elf.dir/util.c.obj
+                                        0x1c3 (size before relaxing)
+
+.comment        0x0000000000000000       0x4d
+ .comment       0x0000000000000000       0x4d CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+                                         0x4e (size before relaxing)
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/RS41HUP.elf.dir/util.c.obj
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .ARM.attributes
+                0x000000000000002d       0x2d CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .ARM.attributes
+                0x000000000000005a       0x2d CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .ARM.attributes
+                0x0000000000000087       0x2d CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .ARM.attributes
+                0x00000000000000b4       0x2d CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .ARM.attributes
+                0x00000000000000e1       0x2d CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .ARM.attributes
+                0x000000000000010e       0x2d CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .ARM.attributes
+                0x000000000000013b       0x2d CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .ARM.attributes
+                0x0000000000000168       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .ARM.attributes
+                0x0000000000000195       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .ARM.attributes
+                0x00000000000001c2       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .ARM.attributes
+                0x00000000000001ef       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .ARM.attributes
+                0x000000000000021c       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .ARM.attributes
+                0x0000000000000249       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .ARM.attributes
+                0x0000000000000276       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .ARM.attributes
+                0x00000000000002a3       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .ARM.attributes
+                0x00000000000002d0       0x2d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .ARM.attributes
+                0x00000000000002fd       0x2d CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .ARM.attributes
+                0x000000000000032a       0x2d CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .ARM.attributes
+                0x0000000000000357       0x2d CMakeFiles/RS41HUP.elf.dir/util.c.obj
+ .ARM.attributes
+                0x0000000000000384       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000003a1       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000003be       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000000003db       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000000003f8       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000415       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000000000000432       0x1d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x000000000000044f       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+ .ARM.attributes
+                0x000000000000047c       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+ .ARM.attributes
+                0x00000000000004a9       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000004d6       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000503       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000530       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000000000000055d       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000000000000058a       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000000000005b7       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000000005e4       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000611       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000063e       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000000000000066b       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000698       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000000000006c5       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000000000006f2       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000000000000071f       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000000000000074c       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000779       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000000007a6       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000000007d3       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000800       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x000000000000082d       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000000000000085a       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000887       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000008b4       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000000008e1       0x2d /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+
+.debug_frame    0x0000000000000000     0x273c
+ .debug_frame   0x0000000000000000       0x3c CMakeFiles/RS41HUP.elf.dir/cmsis_boot/startup/startup_stm32f10x_md_vl.c.obj
+ .debug_frame   0x000000000000003c       0x8c CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .debug_frame   0x00000000000000c8       0x30 CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .debug_frame   0x00000000000000f8       0xc4 CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .debug_frame   0x00000000000001bc      0x12c CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .debug_frame   0x00000000000002e8       0xf0 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .debug_frame   0x00000000000003d8       0x58 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .debug_frame   0x0000000000000430       0xf4 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .debug_frame   0x0000000000000524       0x70 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .debug_frame   0x0000000000000594      0x2a0 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .debug_frame   0x0000000000000834       0xcc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .debug_frame   0x0000000000000900      0x274 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .debug_frame   0x0000000000000b74      0x18c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .debug_frame   0x0000000000000d00      0x240 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .debug_frame   0x0000000000000f40      0x1bc CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .debug_frame   0x00000000000010fc      0x67c CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .debug_frame   0x0000000000001778      0x224 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .debug_frame   0x000000000000199c       0xa0 CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .debug_frame   0x0000000000001a3c      0x1e0 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .debug_frame   0x0000000000001c1c       0x50 CMakeFiles/RS41HUP.elf.dir/util.c.obj
+ .debug_frame   0x0000000000001c6c       0xac /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000001d18       0x50 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000001d68       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x0000000000001d8c       0x4c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000001dd8       0x38 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x0000000000001e10       0xc8 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x0000000000001ed8       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x0000000000001efc       0x40 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-assert.o)
+ .debug_frame   0x0000000000001f3c       0x64 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fprintf.o)
+ .debug_frame   0x0000000000001fa0       0x28 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000001fc8       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000001fe8       0xac /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000002094       0x60 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000000000020f4       0x40 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000002134       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000002160       0x5c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000000000021bc      0x14c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000002308       0x54 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x000000000000235c       0xb0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lock.o)
+ .debug_frame   0x000000000000240c       0x58 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000002464       0x28 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000000000000248c       0x38 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000000024c4       0x30 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000000024f4       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000002520       0x88 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000025a8       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x00000000000025d4       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000002600       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x000000000000262c       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000002658       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000002684       0x30 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000026b4       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000000000026e0       0x5c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-reent.o)
+
+.debug_loc      0x0000000000000000     0xcd46
+ .debug_loc     0x0000000000000000       0xd4 CMakeFiles/RS41HUP.elf.dir/delay.c.obj
+ .debug_loc     0x00000000000000d4       0x6c CMakeFiles/RS41HUP.elf.dir/f_rtty.c.obj
+ .debug_loc     0x0000000000000140     0x1aac CMakeFiles/RS41HUP.elf.dir/horus_l2.c.obj
+ .debug_loc     0x0000000000001bec       0xcc CMakeFiles/RS41HUP.elf.dir/init.c.obj
+ .debug_loc     0x0000000000001cb8      0x614 CMakeFiles/RS41HUP.elf.dir/main.c.obj
+ .debug_loc     0x00000000000022cc      0x2b0 CMakeFiles/RS41HUP.elf.dir/mfsk.c.obj
+ .debug_loc     0x000000000000257c      0x2e5 CMakeFiles/RS41HUP.elf.dir/radio.c.obj
+ .debug_loc     0x0000000000002861      0x1cb CMakeFiles/RS41HUP.elf.dir/stm_lib/src/misc.c.obj
+ .debug_loc     0x0000000000002a2c      0xa74 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_adc.c.obj
+ .debug_loc     0x00000000000034a0      0x139 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_dma.c.obj
+ .debug_loc     0x00000000000035d9     0x3667 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_flash.c.obj
+ .debug_loc     0x0000000000006c40     0x1542 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_gpio.c.obj
+ .debug_loc     0x0000000000008182      0x77f CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_rcc.c.obj
+ .debug_loc     0x0000000000008901      0x676 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_spi.c.obj
+ .debug_loc     0x0000000000008f77     0x2219 CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_tim.c.obj
+ .debug_loc     0x000000000000b190      0x88d CMakeFiles/RS41HUP.elf.dir/stm_lib/src/stm32f10x_usart.c.obj
+ .debug_loc     0x000000000000ba1d      0x11c CMakeFiles/RS41HUP.elf.dir/syscalls/syscalls.c.obj
+ .debug_loc     0x000000000000bb39      0xcf3 CMakeFiles/RS41HUP.elf.dir/ublox.c.obj
+ .debug_loc     0x000000000000c82c      0x51a CMakeFiles/RS41HUP.elf.dir/util.c.obj
